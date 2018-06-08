@@ -3,7 +3,10 @@
 }
 
 .arrow {
-  float: right;
+  width: 100px;
+  float: left;
+  padding-left: 90px;
+  padding-top: 3px;
 }
 
 body {
@@ -20,7 +23,8 @@ body {
 
 .content {
   line-height: 1.2;
-  width: 420px;
+  width: 70%;
+  float: left;
 }
 
 .content h1 {
